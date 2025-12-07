@@ -1,4 +1,8 @@
 Author: Chatsiri Piakhoksung
 Section: 1
 I am responsible for: Quick sort and Bubble sort
+<<<<<<< HEAD
 Team: Swen
+=======
+Semester 2/2568
+>>>>>>> 2568
